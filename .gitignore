@@ -1,0 +1,18 @@
+# Visual Studio
+.vs/
+.vscode/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+# Rider / JetBrains
+.idea/
+# Build output
+*.dll
+*.exe
+*.pdb
+*.runtimeconfig.json
+# VS temporary files
+*.db
